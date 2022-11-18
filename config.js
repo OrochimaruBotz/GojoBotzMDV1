@@ -40,37 +40,37 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6288804947282', 'HumanzzZ', true],
-['6288804947282', 'HumanzzZ', true]
+['6289697488609', 'Tachibana Yuzi ×፝֟͜×', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6288804947282'
-global.nomorown = '6288804947282'
+global.nomorbot = '6285771618987'
+global.nomorown = '6289697488609'
 global.nomorown1 = '6288804947282'
-global.nomorown2 = '6288804947282'
+global.nomorown2 = '6289697488609'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Humanz'
-global.namebot = 'GojoBotzMD'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 HumanzzZ'
+global.author = 'Created By Tachibana Yuzi ×፝֟͜×'
+global.namebot = 'Kamisato Ayaka-Botzラ'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Tachibana Yuzi ×፝֟͜×'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'GojoBotzMD '
+global.wm2 = 'Tachibana Yuzi ×፝֟͜×'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `GojoBotzMD`
+global.titlebot = `Kamisato Ayaka-Botzラ`
 global.stickpack = 'Made By'
-global.stickauth = `HumanzzZ`
+global.stickauth = `Tachibana Yuzi ×፝֟͜×`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'HumanzzZ'
-global.nameown2 = 'GojoBotzMD'
+global.nameown1= 'Tachibana Yuzi ×፝֟͜×'
+global.nameown2 = 'HumanzzZ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
@@ -84,11 +84,11 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888-0494-7282'
+global.pdana = '089-69748-8609'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088804947282'
+global.ppulsa = '089697488609'
 global.ppulsa2 = '088804947282'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
@@ -306,7 +306,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/Frezzy-XD"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '088804947282'
+global.phn = '089697488609'
 
 global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
