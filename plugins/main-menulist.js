@@ -1,5 +1,5 @@
 /*Base YushinoMDV3 
-/*Record By HumanzzZ
+*Record By HumanzzZ*
 
 
 let { generateWAMessageFromContent } = (await import("@adiwajshing/baileys"))
