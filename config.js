@@ -55,7 +55,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Tachibana Yuzi ×፝֟͜×'
-global.namebot = 'Kamisato Ayaka-Botzラ'
+global.namebot = '𝙶𝚊𝚠𝚛 𝙶𝚞𝚛𝚊'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Tachibana Yuzi ×፝֟͜×'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
@@ -63,7 +63,7 @@ global.wm2 = 'Tachibana Yuzi ×፝֟͜×'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Kamisato Ayaka-Botzラ`
+global.titlebot = `𝙶𝚊𝚠𝚛 𝙶𝚞𝚛𝚊`
 global.stickpack = 'Made By'
 global.stickauth = `Tachibana Yuzi ×፝֟͜×`
 global.week = `${week} ${date}`
@@ -90,7 +90,7 @@ global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '089697488609'
 global.ppulsa2 = '088804947282'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.psaweria = 'https://saweria.co/HumanzzBoti'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
