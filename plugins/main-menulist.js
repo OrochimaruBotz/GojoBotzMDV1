@@ -1,5 +1,7 @@
-/*Base YushinoMDV3 
-Record By HumanzzZ*/
+/** Recode By HumanzzZ
+* Script Ori Hyuuraaa-Official
+* MAU BANYAK LAGI FITUR NYA 
+* RECODE SENDIRI BANH JANGAN MAU ENAK AJA*/
 
 
 let { generateWAMessageFromContent } = (await import("@adiwajshing/baileys"))
