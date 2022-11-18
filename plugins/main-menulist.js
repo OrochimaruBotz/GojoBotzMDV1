@@ -290,28 +290,21 @@ const sections = [
 	{title: `⫹🔞 › 𐐪-〚 Nsfw 〛-𐑂`, rowId: ".? nsfw", description: "╰► Anak kecil ga boleh ya SARU TOLOL...."},
 	{title: `⫹🌟 › 𐐪-〚 Premium 〛-𐑂`, rowId: ".? premium", description: "╰► Hanya khusus users premium..."},
 	{title: `⫹🎭 › 𐐪-〚 Anonymous chat 〛-𐑂`, rowId: ".? anonymous", description: "╰► Mau ngomong sama mantan kah? >.<"},
-	{title: `⫹☪️ › 𐐪-〚 Islamic 〛-𐑂`, rowId: ".? quran", description: "╰► Tibat ya kak..."},
-	{title: `⫹🌐 › 𐐪-〚 Internet 〛-𐑂`, rowId: ".? internet", description: "╰► Ga ada google ya kak..."},
+	{title: `⫹🌐 › 𐐪-〚 Internet 〛-𐑂`, rowId: ".? internet", description: "╰► ada googlenya ya kak( ◜‿◝ )♡"},
 	{title: `⫹📤️ › 𐐪-〚 Downloader 〛-𐑂`, rowId: ".? downloader", description: "╰► Jangan download yg aneh-aneh, Xixixi (≧▽≦)"},
 	{title: `⫹🃏 › 𐐪-〚 Stikers 〛-𐑂`, rowId: ".? stiker", description: "╰► Kalau bikin sticker jangan di spam ya kak..."},
 	{title: `⫹✏️ › 𐐪-〚 Nulis 〛-𐑂`, rowId: ".? nulis", description: "╰► Hati-hati ke tawan bu sri..."},
 	{title: `⫹🎵 › 𐐪-〚 Audio 〛-𐑂`, rowId: ".? audio", description: "╰► Calon remixer nih haha ></"},
 	{title: `⫹🦄 › 𐐪-〚 Group 〛-𐑂`, rowId: ".? group", description: "╰► Menu settingan buat group mu kak -𐑂"},
 	{title: `⫹👑 › 𐐪-〚 Admin 〛-𐑂`, rowId: ".? admin", description: "╰► Yg bukan admin jangan make fitur ini >-<"},
-	{title: `⫹🗃️️ › 𐐪-〚 Database 〛-𐑂`, rowId: ".? database", description: "╰► Simpen apa tuh.... >.<"},
 	{title: `⫹🧰️ › 𐐪-〚 Tools 〛-𐑂`, rowId: ".? tools", description: "╰► Butuh apa aja bot akan bantu -𐑂"},
 	{title: `️️⫹📊️ › 𐐪-〚 Info 〛-𐑂`, rowId: ".? info", description: "╰► Info lowker kak?..."},
 	{title: `⫹👩‍💻 › 𐐪-〚 Owner 〛-𐑂`, rowId: ".? owner", description: "╰► Yg bukan developer gausah nge klik fitur ini !"},
 	{title: `⫹🎨 › 𐐪-〚 Maker 〛-𐑂`, rowId: ".? maker", description: "╰► Bikin logo apa ya enaknya?"},
-	{title: `⫹💌 › 𐐪-〚 Store 〛-𐑂`, rowId: ".? store", description: "╰► Anak jebeh ya kamu kak?"},
-	{title: `⫹🔥 › 𐐪-〚 Virtex 〛-𐑂`, rowId: ".? virus", description: "╰► Jangan kak bahaya -𐑂"},
 	]
     },{
 	title: `${htki} ▮𝗜𝗻𝗳𝗼 」 ${htka}`,
 	rows: [
-	    {title: `💬 ∫ » Event «`, rowId: ".event", description: "✧ Nyari diskon? hahaha >.</"},
-	    {title: `🎳 ∫ » Version «`, rowId: ".cekversi", description: "✧ Mau ngapain ya?..."},
-	    {title: `🎁 ∫ » Referal «`, rowId: ".ref", description: "✧ Bagikan code undangan biar dapat hadiah...."},
 	    {title: `🔭 ∫ » Script «`, rowId: ".sc", description: `✧ Source Code ${namebot}`},
 	    {title: `📮 ∫ » Rules «`, rowId: ".rules", description: `✧ Peraturan menggunakan ${namebot}`},
 	    {title: `💰 ∫ » Donasi «`, rowId: ".donasi", description: '✧ Support BOT agar on 1 Minggu non stop'},
@@ -549,7 +542,7 @@ let almenu = `┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
 │◇ Dᴀᴛᴀʙᴀsᴇ: ${totalreg}
 ╰╸╳`
 let nomorwa = '0'
-let nomorowm1 = '6285380166282'
+let nomorowm1 = '6288804947282'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
