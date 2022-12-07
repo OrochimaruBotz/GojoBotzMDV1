@@ -1,4 +1,4 @@
-*###RECODE BY HUMNAZ###*
+/*###RECODE BY HUMNAZ###*/
 
 
 import moment from 'moment-timezone'
