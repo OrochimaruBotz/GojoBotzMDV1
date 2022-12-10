@@ -1,5 +1,6 @@
-/*MADE BY HUMANZ
-BASE HYURAAOFFICIAL*/
+/*RECODE BY HUMANZ
+ *BASE HYURAAOFFICIAL
+ *MAU FITUR BOT BANYAK?RECODE SENDIRI BANJ*/
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -56,8 +57,8 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Humanz'
-global.namebot = 'GojoBotzMD'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Humanz'
+global.namebot = '𝑮𝒐𝒋𝒐𝑩𝒐𝒕𝒛𝑴𝑫'
+global.wm = '𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒚 𝑮𝒐𝒋𝒐𝑩𝒐𝒕𝒛𝑴𝑫 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑×͜×'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
 global.wm2 = 'Humanz'
@@ -65,12 +66,14 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `GojoBotzMD`
-global.stickpack = 'Made By'
-global.stickauth = `Humanz`
+global.stickpack = ''
+global.stickauth = ``×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗚𝗼𝗷𝗼𝗕𝗼𝘁𝘇𝗠𝗗\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗚𝗼𝗷𝗼𝗕𝗼𝘁𝘇𝗠𝗗 : 088804947282\n⊟————————⊟`
+global.antilink = false'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown= 'HumanzzZ'
+global.nameown1= 'HumanzzZ'
+global.nameown2= 'Humanz
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
@@ -304,9 +307,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/humanzzhengker"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '089697488609'
+global.phn = '088804947282'
 
 global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
