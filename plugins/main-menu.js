@@ -550,7 +550,7 @@ conn.reply(m.chat, 'Maaf, menu sedang error', m)
 throw e
 }
 }
-handler.command = /^(tesm|\?)$/i
+handler.command = /^(menu|\?)$/i
 
 handler.register = false
 handler.exp = 3
