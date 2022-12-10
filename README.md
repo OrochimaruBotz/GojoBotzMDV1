@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/74fd38ef7cf0b70839de2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/62fbd6968c56de0ad36eb.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">GojoBotzMDV1</h1>
 
