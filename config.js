@@ -43,13 +43,14 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6288804947282', 'HumanzzZ', true],
+['6289697488609', 'Yuzi', true],
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6288804947282'
 global.nomorown = '6288804947282'
 global.nomorown1 = '6288804947282'
-global.nomorown2 = '6288804947282'
+global.nomorown2 = '6289697488609'
 global.nomorwa = '0'
 
 
