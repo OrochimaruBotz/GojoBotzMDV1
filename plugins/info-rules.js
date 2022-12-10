@@ -34,9 +34,9 @@ conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`
     mediaUrl: 'https://wa.me/p/5489299044451325/6281361281833',
     mediaType: 2, 
     description: sgc,
-    title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ Cᴜʏ!!!",
+    title: "Join Group",
     body: wm,
-    thumbnail: fs.readFileSync('./media/qr.png'),
+    thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: 'https://wa.me/p/5489299044451325/6281361281833',
      }}
   })
