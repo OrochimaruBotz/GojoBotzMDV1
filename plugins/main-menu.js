@@ -3,7 +3,6 @@
 * MAU BANYAK LAGI FITUR NYA 
 * RECODE SENDIRI BANH JANGAN MAU ENAK AJA*/
 
-
 let { generateWAMessageFromContent } = (await import("@adiwajshing/baileys"))
 import { promises } from 'fs'
 import { join } from 'path'
@@ -495,7 +494,7 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Kᴛɪᴋ .sᴏᴜɴᴅᴍᴇɴᴜ ᴜɴᴛᴋ ʏɢ ʟᴀɪɴ",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/62fbd6968c56de0ad36eb.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/6933370cdf7734976315f.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
