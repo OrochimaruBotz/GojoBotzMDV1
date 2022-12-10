@@ -215,9 +215,6 @@ if (teks == 'quran') tags = {
 if (teks == 'audio') tags = {
 'audio': 'Audio'
 }
-if (teks == 'jadibot') tags = {
-'jadibot': 'Jadi Bot'
-}
 if (teks == 'info') tags = {
 'info': 'Info'
 }
@@ -308,7 +305,7 @@ const sections = [
     },{
 	title: `${htki} ▮𝗜𝗻𝗳𝗼 」 ${htka}`,
 	rows: [
-	    {title: `🔭 ∫ » Script «`, rowId: ".sc", description: `✧ Source Code ${namebot}`},
+	    {title: `👨‍💻 ∫ » My Owner «`, rowId: ".owner", description: `✧ Source Code ${namebot}`},
 	    {title: `📮 ∫ » Rules «`, rowId: ".rules", description: `✧ Peraturan menggunakan ${namebot}`},
 	    {title: `💰 ∫ » Donasi «`, rowId: ".donasi", description: '✧ Support BOT agar on 1 Minggu non stop'},
 	  {title: `🎖️ ∫ » Thanks To «`, rowId: ".tqto", description: '✧ Kawan-kawan Yg membantu pembuatan bot ini...'},
@@ -340,7 +337,7 @@ let tagnya = `@${m.sender.split`@`[0]}`
 ┊↬✗• *ᴇxᴘɪʀᴇᴅ ᴘʀᴇᴍɪᴜᴍ:*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `*/
-let con = `┌────「 *𝙶𝚊𝚠𝚛 𝙶𝚞𝚛𝚊* 」───⬣
+let con = `┌────「 *GojoBotzMD* 」───⬣
 │⬡ Aktif selama ${uptime}
 │⬡ ${Object.keys(global.db.data.users).length} Pengguna
 │⬡ Mode : ${global.opts['self'] ? 'Self' : 'publik'}
@@ -498,7 +495,7 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Kᴛɪᴋ .sᴏᴜɴᴅᴍᴇɴᴜ ᴜɴᴛᴋ ʏɢ ʟᴀɪɴ",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/62fbd6968c56de0ad36eb.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
