@@ -4,7 +4,7 @@
 <h1 align="center">GojoBotzMDV1</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
-
+## Saya Cuman Menambahkan Beberapa fitur Dan Merubah Beberapa Fitur Lainnya
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
