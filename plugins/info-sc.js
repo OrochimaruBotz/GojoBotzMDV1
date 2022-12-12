@@ -25,15 +25,15 @@ let handler = async (m, { conn, args, command }) => {
                    "inviteCode": "null",
                    "groupName": "Halo", 
                    "caption": wm, 
-                   'jpegThumbnail': fs.readFileSync('./media/ok.jpg')
+                   'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
            }
        }
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
 let scnya = `⟥⟞⟚━┈┈ ❨ Hʏ ${tag} ❩ ┈┈━⟚⟝⟤`
-    let footerny = `┆📑  *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n*Recode* : *Privat🔒*`
- conn.send3ButtonImg(m.chat, `https://telegra.ph/file/bf8b82dc34d14d25e67b8.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    let footerny = `┆📑  *Base* : https://github.com/GataNina-Li/GataBotMD-Heroku\n*Recode* : *Privat🔒*`
+ conn.send3ButtonImg(m.chat, `https://telegra.ph/file/bf8b82dc34d14d25e67b8.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://instagram.com/kahfiofc0',
     mediaType: 2, 
     description: sgc,
